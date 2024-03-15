@@ -1,0 +1,17 @@
+.section-1{
+    max-width: 1000px;
+    justify-content: space-between;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 4rem;
+}
+
+#btn-1, #btn-2{
+    margin-top: 20px;
+    padding: 15px;
+    margin: 15px;
+}
+
+.basketOne, .basketTwo{
+    width: 200px;
+}
